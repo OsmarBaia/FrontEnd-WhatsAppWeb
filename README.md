@@ -1,2 +1,7 @@
 # WhatsApp-Web-Clone
-Interface de chat similar a do WhatApps Web
+
+Clone do estilo da interface do WhatApps Web
+
+# 💻 Landscape
+
+<img src="./assets/img/WhatsApp-Web-Clone.png"/>
